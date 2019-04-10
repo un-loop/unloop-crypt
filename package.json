@@ -1,0 +1,27 @@
+{
+  "name": "unloop-crypt",
+  "version": "1.0.0",
+  "description": "Unloop's symmetric encryption implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/un-loop/unloop-crypt.git"
+  },
+  "keywords": [
+    "unloop",
+    "crypto",
+    "symmetric"
+  ],
+  "author": "Michael Armes (michael@un-loop.org)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/un-loop/unloop-crypt/issues"
+  },
+  "homepage": "https://github.com/un-loop/unloop-crypt#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
